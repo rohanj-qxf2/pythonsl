@@ -1,0 +1,7 @@
+README.md
+setup.py
+pythonsl/__init__.py
+pythonsl.egg-info/PKG-INFO
+pythonsl.egg-info/SOURCES.txt
+pythonsl.egg-info/dependency_links.txt
+pythonsl.egg-info/top_level.txt
